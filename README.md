@@ -60,23 +60,23 @@
 ### 💚 Cat
 ![cat.gif](images/cat.gif)
 - 🐾 고양이의 힌트를 활용한 최단거리 문제
-<p></p>
+
 ---
 
 ### 💛 Talk
 ![9queen.gif](images/9queen.gif)
 - 🗣️ 대화 속 단서를 이용하여 문제를 범인을 찾는 스테이지
-<p></p>
+
 ---
 
 ### 💚 Final
 ![final.gif](images/final.gif)
 - 🏆 모든 퍼즐을 해결하고 최종 탈출에 성공하는 스테이지
-<p></p>
+
 ---
 
 ## 🎮 유튜브 영상
 
 [게임 플레이 영상 보러가기](https://www.youtube.com/watch?v=bX1xGlFm-a8)
-<p></p>
+
 ---
