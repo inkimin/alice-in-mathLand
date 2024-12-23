@@ -42,41 +42,41 @@
 ### ❤️ Door
 ![1door.gif](images/1door.gif)
 - 🔑 도어를 열기 위한 숨겨진 비밀번호를 찾아내는 퍼즐
-<br>
+<p></p>
 ---
 
 ### 🧡 Card
 ![8card.gif](images/8card.gif)
 - 🃏 카드를 사용해 숨겨진 패턴과 논리를 발견하는 스테이지
-<br>
+
 ---
 
 ### 💜 Clock
 ![2clock.gif](images/2clock.gif)
 - ⏰ 시계를 조작하여 시간의 비밀을 푸는 퍼즐
-<br>
+<p></p>
 ---
 
 ### 💚 Cat
 ![cat.gif](images/cat.gif)
 - 🐾 고양이의 힌트를 활용한 최단거리 문제
-<br>
+<p></p>
 ---
 
 ### 💛 Talk
 ![9queen.gif](images/9queen.gif)
 - 🗣️ 대화 속 단서를 이용하여 문제를 범인을 찾는 스테이지
-<br>
+<p></p>
 ---
 
 ### 💚 Final
 ![final.gif](images/final.gif)
 - 🏆 모든 퍼즐을 해결하고 최종 탈출에 성공하는 스테이지
-<br>
+<p></p>
 ---
 
 ## 🎮 유튜브 영상
 
 [게임 플레이 영상 보러가기](https://www.youtube.com/watch?v=bX1xGlFm-a8)
-<br>
+<p></p>
 ---
