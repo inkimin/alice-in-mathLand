@@ -1,5 +1,3 @@
-# alice-in-mathLand
-
 # 🕵️‍♂️ Online Escape Room Game
 ![mainimage](https://github.com/user-attachments/assets/b082286d-934d-48c5-a34f-0c48dee0ccb4)
 총 13개의 스테이지로 구성된 **온라인 수학 방탈출 게임**입니다. <br>
