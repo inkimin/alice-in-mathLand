@@ -39,39 +39,38 @@
 
 ## 🌟 주요 스테이지
 
-### ❤️ Door
-![1door.gif](images/1door.gif)
-- 🔑 도어를 열기 위한 숨겨진 비밀번호를 찾아내는 퍼즐
-<p></p>
----
-
-### 🧡 Card
-![8card.gif](images/8card.gif)
-- 🃏 카드를 사용해 숨겨진 패턴과 논리를 발견하는 스테이지
-
----
-
-### 💜 Clock
-![2clock.gif](images/2clock.gif)
-- ⏰ 시계를 조작하여 시간의 비밀을 푸는 퍼즐
-<p></p>
----
-
-### 💚 Cat
-![cat.gif](images/cat.gif)
-- 🐾 고양이의 힌트를 활용한 최단거리 문제
-
----
-
-### 💛 Talk
-![9queen.gif](images/9queen.gif)
-- 🗣️ 대화 속 단서를 이용하여 문제를 범인을 찾는 스테이지
-
----
-
-### 💚 Final
-![final.gif](images/final.gif)
-- 🏆 모든 퍼즐을 해결하고 최종 탈출에 성공하는 스테이지
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="width: 50%; padding: 10px;">
+    <h3>❤️ Door</h3>
+    <img src="images/1door.gif" alt="Door">
+    <p>🔑 도어를 열기 위한 숨겨진 비밀번호를 찾아내는 퍼즐</p>
+  </div>
+  <div style="width: 50%; padding: 10px;">
+    <h3>🧡 Card</h3>
+    <img src="images/8card.gif" alt="Card">
+    <p>🃏 카드를 사용해 숨겨진 패턴과 논리를 발견하는 스테이지</p>
+  </div>
+  <div style="width: 50%; padding: 10px;">
+    <h3>💜 Clock</h3>
+    <img src="images/2clock.gif" alt="Clock">
+    <p>⏰ 시계를 조작하여 시간의 비밀을 푸는 퍼즐</p>
+  </div>
+  <div style="width: 50%; padding: 10px;">
+    <h3>💚 Cat</h3>
+    <img src="images/cat.gif" alt="Cat">
+    <p>🐾 고양이의 힌트를 활용한 최단거리 문제</p>
+  </div>
+  <div style="width: 50%; padding: 10px;">
+    <h3>💛 Talk</h3>
+    <img src="images/9queen.gif" alt="Talk">
+    <p>🗣️ 대화 속 단서를 이용하여 문제를 범인을 찾는 스테이지</p>
+  </div>
+  <div style="width: 50%; padding: 10px;">
+    <h3>💚 Final</h3>
+    <img src="images/final.gif" alt="Final">
+    <p>🏆 모든 퍼즐을 해결하고 최종 탈출에 성공하는 스테이지</p>
+  </div>
+</div>
 
 ---
 
